@@ -1,0 +1,4 @@
+1 .s
+2 + .s
+"a" file>B
+B>base64 $>B "b" B>file
